@@ -465,6 +465,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-color: #e2f0c38a;
   
 }
+.proj-links:hover{
+  background-color: #b8e656a9;
+}
 .background-image-right {
   top: 20%;
   position: absolute;
