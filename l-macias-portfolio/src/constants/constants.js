@@ -58,45 +58,26 @@ export const backEndSkills = [
 
 export const projects = [
   {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg1,
-    link: 'https://google.com',
-    github: 'https://github.com/l-macias'
+    title: 'Blog Multiuser',
+    description: 'Admin and User panel, WYSIWYG Editor, Tags, Categories. Made with NextJS, Node.JS, Express, using MongoDB, JWT, Google Identity. Frontend Deployed on Vercel, Backend on Render',
+    imgUrl: './src/assets/img/projects/blog-multiuser.png',
+    link: 'https://frontend-blog-ten.vercel.app/',
+    github: 'https://github.com/l-macias/blog-node-mongo-react-nextjs'
   },
   {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg2,
-    link: 'https://google.com',
-    github: 'https://github.com/l-macias'
+    title: 'Managment System',
+    description: 'Products management system, with complete CRUD made with JS Vanilla, using localStorage as DB.',
+    imgUrl: './src/assets/img/projects/management-system.png',
+
+    link: 'https://l-macias.github.io/gestion-final-curso-js/',
+    github: 'https://github.com/l-macias/gestion-final-curso-js'
   },
   {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg3,
-    link: 'https://google.com',
-    github: 'https://github.com/l-macias'
-  },
-  {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg1,
-    link: 'https://google.com',
-    github: 'https://github.com/l-macias'
-  },
-  {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg2,
-    link: 'https://google.com',
-    github: 'https://github.com/l-macias'
-  },
-  {
-    title: 'Business Startup',
-    description: 'Design & Development',
-    imgUrl: projImg3,
-    link: 'https://google.com',
+    title: 'this.Portfolio',
+    description: 'This Portfolio was made with ReactJS, Bootstrap, Nodemailer. Deployed in a VPS using Cloudflare and Backend on Render',
+    imgUrl: './src/assets/img/projects/portfolio.png',
+    link: '#',
     github: 'https://github.com/l-macias'
   }
+
 ]

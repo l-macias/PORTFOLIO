@@ -9,7 +9,7 @@ export default function SkillList (props) {
     {props.choice.map((skill, index) => {
       return (
             <div key={index} className="item">
-            <img src={skill.img} alt="Image" />
+            <img src={skill.img} className="skill-img" alt="Image" />
             <h5>{skill.title}</h5>
             </div>
       )

@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react'
 import { Navbar, Nav, Container } from 'react-bootstrap'
-import logo from '../assets/img/logo.png'
+import logo from '../assets/img/logo-lm.png'
 import { SocialIcons } from './SocialIcons'
 import { HashLink } from 'react-router-hash-link'
 import {
